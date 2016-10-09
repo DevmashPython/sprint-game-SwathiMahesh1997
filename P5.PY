@@ -17,4 +17,8 @@ while 1:
 					break
 
 time_elapsed=time.time() - s_time
-print "game over. time taken: " + str(time_elapsed)						
+print "game over. time taken: " + str(time_elapsed)	
+
+'''
+1. Understand the assignment again and redo. :<	
+'''
